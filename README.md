@@ -5,7 +5,9 @@
 <!-- dash-content-start -->
 
 Generate images based on text prompts using [Workers AI](https://developers.cloudflare.com/workers-ai/).
+
 In this example, going to the website will generate an image from your prompt query parameter using the `@cf/black-forest-labs/flux-1-schnell` model.
+
 Be patient! Your image may take a few seconds to generate.
 
 <!-- dash-content-end -->
